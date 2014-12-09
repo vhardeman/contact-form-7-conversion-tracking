@@ -1,2 +1,2 @@
-contact-form-7-conversion-tracking
+Contact Form 7 Conversion Tracking
 ==================================
